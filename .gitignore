@@ -51,3 +51,6 @@ Release
 
 #a place to hide documents that should not go into the repo:
 doc/NotGitWorthy/
+
+# CMake out of band builds
+build/*
